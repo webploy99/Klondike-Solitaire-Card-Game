@@ -2,13 +2,13 @@
 // ======== get URL ========
 function appUrl() {
     location.href =
-      "https://apps.apple.com/vn/app/klondike-solitaire-card-game/id6480581971";
+      "https://apps.apple.com/vn/app/color-catch-dice-drop/id6479971408";
 }
 
 
 // ======== get Icon ========
 appIcon = {
-  icon: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/d2/60/74d2600e-dd68-8155-9b3f-b685c00e64e6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp",
+  icon: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/9f/85/5a9f8563-eeea-b95b-62e7-b91b98756e2d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp",
 };
 
 var iconInfo = appIcon;
@@ -26,11 +26,11 @@ imageUrl = {
   image5: "https://vn-appstore.com/id010597666/images/img5.jpg",
 
   appImg1:
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/17/55/ea1755d8-343a-a23a-fe83-f626a589b6a0/f5f1bea5-2145-4b52-b1b7-ea5ff3ce2a30_IOS-Description-meng-chhy_11.jpg/434x0w.webp",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5e/b8/28/5eb828de-5ebd-6a3e-7652-63fdbe4f0432/fe0bb30f-032e-41e4-b3e6-c620a4a261ad_1.jpg/434x0w.webp",
   appImg2:
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/24/5f/25245fdc-5d95-f16e-6724-4f65afc25244/fc902ef1-712c-4aa0-82ea-f8bc725b6ec6_IOS-Description-meng-chhy_13.jpg/434x0w.webp",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/74/56/b47456cf-77b3-a11c-576a-36d937d7c629/9f77fd20-8293-48b8-ad93-434bdf3838c8_2.jpg/434x0w.webp",
   appImg3:
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/2f/77/902f77b4-35db-cac6-755a-d0d659eef2cb/382d7b34-cbf8-4b8a-ba59-8654fac93005_IOS-Description-meng-chhy_12.jpg/434x0w.webp",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/f0/fe/07f0feb2-a5eb-ecbf-3052-f9a3a90b93ec/8777efb4-b8ef-4b64-94aa-54a042cd0846_3.jpg/434x0w.webp",
 };
 
 var getImg = imageUrl;
